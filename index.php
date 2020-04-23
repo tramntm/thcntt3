@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>BT0301</title>
 </head>
 <body>
    
     
-    <h1 color="blue">Bai toan loai tam giac voi 3 canh a,b,c</h1>
+    <h1>Bai toan loai tam giac voi 3 canh a,b,c</h1>
     <form action="loaitamgiac.php" method="get">
         <br>Nhap canh a
         <input type="text" name="a">
@@ -21,7 +21,7 @@
         
     </form>
 
-    <h1 color="blue">Tinh ngay ke tiep voi thong tin ngay thang nam</h1>
+    <h1>Tinh ngay ke tiep voi thong tin ngay thang nam</h1>
     <form action="ngayketiep.php" method="get">
         <br>Nhap ngay
         <input type="text" name="day">
